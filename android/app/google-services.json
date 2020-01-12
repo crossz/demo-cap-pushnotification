@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "117564191057",
+    "firebase_url": "https://fir-cap-push.firebaseio.com",
+    "project_id": "fir-cap-push",
+    "storage_bucket": "fir-cap-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117564191057:android:a7cf54f56a646827f56370",
+        "android_client_info": {
+          "package_name": "com.caieturn.ionic.push.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117564191057-50svtd47k9ocfdkb1bvu2kp12darn153.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsYodApz1HqgnIs3vvXq_sSkloOXtUSIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117564191057-50svtd47k9ocfdkb1bvu2kp12darn153.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
