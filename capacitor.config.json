@@ -1,0 +1,8 @@
+{
+  "appId": "com.caieturn.ionic.push.demo",
+  "appName": "capApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
